@@ -43,7 +43,7 @@
     {
       "name": "Question 5",
       "setup": "",
-      "run": "python3 -m unittest notebook_v0_test.Question6",
+      "run": "python3 -m unittest notebook_v0_test.Question5",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -84,6 +84,16 @@
       "name": "Question 9",
       "setup": "",
       "run": "python3 -m unittest notebook_v1_test.Question9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Question 9 - Bonus",
+      "setup": "",
+      "run": "python3 -m unittest notebook_v1_test.Question9Bonus",
       "input": "",
       "output": "",
       "comparison": "included",
